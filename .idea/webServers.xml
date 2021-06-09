@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a00c09b-c788-4d6b-9572-ad31e8f47b9d" name="tmb-ix.net" url="http://31.31.196.177">
+        <fileTransfer rootFolder="/www/tmb-ix.net" host="31.31.196.177" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
